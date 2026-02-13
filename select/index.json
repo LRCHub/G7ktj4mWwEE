@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Así No Te Amará Jamás",
+  "base_artist": "Amanda Miguel",
+  "createdAt": "2026-02-13T04:05:14.326922Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Antho Mattei",
+      "has_synced": false,
+      "path": "select/01_Así_No_Te_Amará_Jamás_Antho_Mattei.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "La Barra",
+      "has_synced": true,
+      "path": "select/02_Así_No_Te_Amará_Jamás_La_Barra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Asi No Te Amara Jamas",
+      "artist": "Rubby Perez",
+      "has_synced": true,
+      "path": "select/03_Asi_No_Te_Amara_Jamas_Rubby_Perez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Amanda Miguel",
+      "has_synced": true,
+      "path": "select/04_Así_No_Te_Amará_Jamás_Amanda_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Amanda Miguel",
+      "has_synced": true,
+      "path": "select/05_Así_No_Te_Amará_Jamás_Amanda_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Amanda Miguel • Diego Verdaguer",
+      "has_synced": true,
+      "path": "select/06_Así_No_Te_Amará_Jamás_Amanda_Miguel_•_Diego_Verdaguer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Así no te amará jamás",
+      "artist": "Los Palmeras",
+      "has_synced": true,
+      "path": "select/07_Así_no_te_amará_jamás_Los_Palmeras.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "La Barra",
+      "has_synced": true,
+      "path": "select/08_Así_No_Te_Amará_Jamás_La_Barra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Mauricio Martinez",
+      "has_synced": true,
+      "path": "select/09_Así_No_Te_Amará_Jamás_Mauricio_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Asi no te amará jamas",
+      "artist": "Los Palmeras",
+      "has_synced": true,
+      "path": "select/10_Asi_no_te_amará_jamas_Los_Palmeras.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Diego Verdaguer • Amanda Miguel",
+      "has_synced": true,
+      "path": "select/11_Así_No_Te_Amará_Jamás_Diego_Verdaguer_•_Amanda_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Mauricio Martinez",
+      "has_synced": true,
+      "path": "select/12_Así_No_Te_Amará_Jamás_Mauricio_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Diego Verdaguer\u0000Amanda Miguel",
+      "has_synced": true,
+      "path": "select/13_Así_No_Te_Amará_Jamás_Diego_Verdaguer\u0000Amanda_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Amanda Miguel Y Diego Verdaguer",
+      "has_synced": false,
+      "path": "select/14_Así_No_Te_Amará_Jamás_Amanda_Miguel_Y_Diego_Verdaguer.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Así No Te Amará Jamás",
+      "artist": "Amanda Miguel",
+      "has_synced": false,
+      "path": "select/pl_01_Así_No_Te_Amará_Jamás_Amanda_Miguel.txt"
+    }
+  ]
+}
